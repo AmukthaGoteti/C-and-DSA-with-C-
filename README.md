@@ -1,4 +1,4 @@
-# C++ & DSA – Week-wise Learning Roadmap
+# C++ & DSA Using C++
 
 Welcome! 👋  
 This repository is organized into **weekly modules** that take you from the basics of C++ to strong DSA fundamentals. Each week builds on the previous one, keeping the learning curve smooth and structured.
